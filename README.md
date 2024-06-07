@@ -9,5 +9,21 @@ The src folder contains the main code for the app, where pages folder contains t
 
 App.css is the main css file for the page.
 
+## To run the project locally
+
+Check if node is installed on your computer using `node -v` command.
+
+* Clone the repository
+`git clone (repo-link)`
+
+* cd into directory
+`cd Landing-page`
+
+* Run the npm install command
+`npm install`
+
+* To run project use the npm run dev command
+`npm run dev`
+
 ### Author 
 *SUYASH SRIVASTAVA*
